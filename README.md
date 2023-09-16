@@ -4,7 +4,7 @@
 
 ## Manfaat Menggunakan Database Service Mobil
 
-***Menggunakan database service mobil dapat memberikan beberapa manfaat bagi bisnis bengkel mobil, antara lain :*** 
+***Menggunakan database service mobil dapat memberikan beberapa manfaat bagi bisnis bengkel mobil, antara lain*** 
 
 - Hemat waktu dalam mengelola operasi penjualan, mencatat historis pelanggan, memperkirakan pembelian suku cadang, mengelola persediaan, hingga bagian keuangan dan akuntansi
 
@@ -29,4 +29,6 @@
 - Meningkatkan kualitas pelayanan pelanggan.
 
 Dengan menggunakan database service mobil, bisnis bengkel mobil dapat meningkatkan efisiensi dan efektivitas operasionalnya, serta memberikan layanan terbaik kepada pelanggan.
+
+## SELESAI <img align="center" alt="Ikhsan-Python" height="40" width="45" src="https://em-content.zobj.net/source/microsoft-teams/337/student_1f9d1-200d-1f393.png"> <img align="center" alt="Ikhsan-Python" height="40" width="45" src="https://em-content.zobj.net/thumbs/160/twitter/348/flag-indonesia_1f1ee-1f1e9.png">
 
